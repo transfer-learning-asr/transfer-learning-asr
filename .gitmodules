@@ -1,0 +1,6 @@
+[submodule "tensorflow-with-kenlm"]
+	path = tensorflow-with-kenlm
+	url = https://github.com/timediv/tensorflow-with-kenlm.git
+[submodule "wav2letter"]
+	path = wav2letter
+	url = https://github.com/JuliusKunze/speechless.git
